@@ -123,10 +123,6 @@ python video_detect.py
 ```
 Available in runs/predicts
 
-
-https://github.com/user-attachments/assets/70483595-dbc7-4e5f-b3d4-641ad7298c1f
-
-
 ### 5. Live Webcam Detection
 
 ```bash
@@ -140,6 +136,9 @@ python live_detect.py
 - 🔴 Red box — No helmet detected
 - Top bar — Frame count + per-frame detection stats
 - Bottom bar — Safety alert status
+## Evaluation matrix and Confusion matrix
+
+<img width="4255" height="4006" alt="evaluation_dashboard" src="https://github.com/user-attachments/assets/ed9070fb-2c3d-4f6e-9669-67c29a0471a2" />
 
 ## Project Structure
 ```
@@ -201,5 +200,5 @@ Horizontal Flip: 50%
 ## License
 This project is for educational and safety research purposes.
 Dataset sources:
-- [BikesHelmets Dataset](https://www.kaggle.com/) — CC BY 4.0
-- [Hard Hat Workers Dataset](https://universe.roboflow.com/) — CC BY 4.0
+- [BikesHelmets Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/andrewmvd/helmet-detection) 
+- [Hard Hat Workers Dataset]([https://universe.roboflow.com/](https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection) 
